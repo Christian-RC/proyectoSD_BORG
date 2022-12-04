@@ -1,5 +1,5 @@
 # ProyectoSD_BORG
-Proyecto - Seminario Sistemas Distribuidos 2023-1
+Propuesta Proyecto - Seminario Sistemas Distribuidos 2023-1
 
 Implementación de un sistema que nos permita representar las propiedades con las que cuenta una tarea: tales como nombre, prioridad, trabajo etc.
 
