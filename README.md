@@ -13,3 +13,5 @@ Salida del programa borglet.py donde se implementa el funcionamiento del Borglet
 Salida del programa scheduler.py donde se implementa el funcionamiento del planificador de tareas (Scheduler):
 ![Scheduler1](https://user-images.githubusercontent.com/92052631/211175918-71923370-062b-4522-8d9e-93e7e23efadc.png)
 ![Scheduler2](https://user-images.githubusercontent.com/92052631/211175919-af137428-c710-4d69-a9a7-b051f7def656.png)
+
+NOTA: Los atributos de cada diccionario corresponden a la siguiente estructura: {nombre_tarea: [prioridad, cuota, nombre_trabajo])}
